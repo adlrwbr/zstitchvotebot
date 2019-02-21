@@ -1,5 +1,5 @@
 # Z-Stitch Vote Bot
-Utilizes Selenium to vote for Z-Stitch on a google form. The man. The myth. The legend.  
+Utilizes Selenium to vote Z-Stitch to be our school mascot's name. The man. The myth. The legend.  
   
 You'll only find the rushed script on here. It has some dependencies. **You will need to download**:  
 -Python 3.x  
