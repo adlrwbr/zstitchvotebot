@@ -13,3 +13,4 @@ You'll only find the rushed script on here. It has some dependencies. **You will
   
   After downloading and installing the dependencies, you must edit the script's *path_to_webdriver* variable.
   
+ 
